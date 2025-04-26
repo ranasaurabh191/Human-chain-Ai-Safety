@@ -38,7 +38,7 @@ Before setting up the project, ensure you have the following installed:
 ## Setup Instructions
 
 ### 1. Obtain the Project
-- **Option 1: Zip File**
+- **Option 1: Zip File**  https://github.com/ranasaurabh191/Human-chain-Ai-Safety/blob/main/humanchain-ai-safety.rar
   - Extract the provided `humanchain-ai-safety.zip` file to a directory (e.g., `~/humanchain-ai-safety`).
 - **Option 2: Git Repository**
   - Clone the repository (if provided):
