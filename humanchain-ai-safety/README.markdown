@@ -323,26 +323,6 @@ To test the API:
   - Cause: Flask server not running or wrong port.
   - Solution: Ensure `python app.py` is running and access `http://localhost:5000`.
 
-## Submission Instructions
-To submit the project:
-1. Verify all files are present: `app.py`, `models.py`, `requirements.txt`, `init_db.py`, `schema.sql`, `README.md`.
-2. Test all API endpoints to ensure they work as expected.
-3. Package the project:
-   - **Zip File**: Zip the `humanchain-ai-safety` directory:
-     ```bash
-     zip -r humanchain-ai-safety.zipЛА=zip -r humanchain-ai-safety.zip
-     ```
-   - **Git Repository**: Push to a public Git repository (e.g., GitHub, GitLab):
-     ```bash
-     git init
-     git add .
-     git commit -m "Initial commit"
-     git remote add origin <repository-url>
-     git push -u origin main
-     ```
-     Share the repository URL in your submission.
-4. Include this `README.md` with complete setup and usage instructions.
-5. (Optional) Include a cover letter or email referencing the repository or zip file.
 
 ## Additional Notes
 - **Security**: The project uses the MySQL root user for simplicity. In a production environment, use a dedicated user with limited privileges (see `schema.sql` comments).
